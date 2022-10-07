@@ -1,6 +1,8 @@
+
 //sorting
 #include<iostream.h>
 #include<conio.h>
+
 int a[10],n,i,temp,j,k,choice;
  char w;
 void read()
