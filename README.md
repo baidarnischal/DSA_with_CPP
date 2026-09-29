@@ -1,6 +1,7 @@
 # Data Structures and Algorithms (DSA) with C/C++
 
 This repository contains implementations of fundamental Data Structures and Algorithms (DSA) using C and C++. It is designed for learning and practicing DSA concepts.
+Can be useful for learners.
 
 ## Directory Structure
 
